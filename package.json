@@ -1,0 +1,16 @@
+{
+  "name": "tplayer",
+  "version": "1.0.0",
+  "description": "play songs through terminal",
+  "main": "app.js",
+  "bin": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammed Faris UM",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "play-sound": "^1.1.3"
+  }
+}
